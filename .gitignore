@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.swp
+*~
