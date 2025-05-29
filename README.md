@@ -8,8 +8,6 @@ tags: ["documentation", "system", "technical-design", "architecture", "dotmesh",
 status: "active"
 ---
 
-# 🧠 beNetX – Semantische DotMesh Architektur
-
 # beNetX – Semantische DotMesh Architektur
 
 **Ein visionäres Framework für eine dezentrale, selbstreflektierende Datenintelligenz.**
