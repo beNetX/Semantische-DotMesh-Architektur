@@ -31,7 +31,7 @@ Das Herzstück unserer Architektur ist das **NoHouse.DotMesh**-Konzept. Wir stel
 
 Die Entwicklung von beNetX folgt klaren ethischen und konzeptionellen Leitlinien, die in unserem Werteanspruch dokumentiert sind. Diese Prinzipien umfassen Respekt, transparente Kommunikation, Selbstbestimmung der Nutzer:innen, inklusive Kooperation und ein Bekenntnis zur digitalen Ethik. [cite: 2]
 
-* **Werteanspruch:** [`docs/prinzipien-lizenzen-richtlinien/werteanspruch-beNetX-DotMesh-Architektur-v1.0.md`](/benet-public/prinzipien-lizenzen-richtlinien/werteanspruch-beNetX-DotMesh-Architektur-v1.0.md) 
+* **Werteanspruch:** [`/prinzipien-lizenzen-richtlinien/werteanspruch-beNetX-DotMesh-Architektur-v1.0.md`](/benet-public/prinzipien-lizenzen-richtlinien/werteanspruch-beNetX-DotMesh-Architektur-v1.0.md) 
 
 ## Technische Grundlagen & Manifeste
 
