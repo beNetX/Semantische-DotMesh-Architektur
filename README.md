@@ -31,13 +31,13 @@ Das Herzstück unserer Architektur ist das **NoHouse.DotMesh**-Konzept. Wir stel
 
 Die Entwicklung von beNetX folgt klaren ethischen und konzeptionellen Leitlinien, die in unserem Werteanspruch dokumentiert sind. Diese Prinzipien umfassen Respekt, transparente Kommunikation, Selbstbestimmung der Nutzer:innen, inklusive Kooperation und ein Bekenntnis zur digitalen Ethik. [cite: 2]
 
-* **Werteanspruch:** [`/prinzipien-lizenzen-richtlinien/werteanspruch-beNetX-DotMesh-Architektur-v1.0.md`](/prinzipien-lizenzen-richtlinien/werteanspruch-beNetX-DotMesh-Architektur-v1.0.md) 
+* **Werteanspruch:** ([/prinzipien-lizenzen-richtlinien/werteanspruch-beNetX-DotMesh-Architektur-v1.0.md](prinzipien-lizenzen-richtlinien/werteanspruch-beNetX-DotMesh-Architektur-v1.0.md)) 
 
 ## Technische Grundlagen & Manifeste
 
 Die DotMesh-Architektur begann technisch am **02. Mai 2025** mit der initialen `main.py` im Modul `benet-control`. [cite: 2, 3] Die Urheberschaft und Integrität dieses Ursprungscodes sind dokumentiert.
 
-* **Urhebernachweis & Lizenz:** [`/prinzipien-lizenzen-richtlinien/benetx_urheber_dotmesh_architektur_v1_signiert.pdf`](/prinzipien-lizenzen-richtlinien/benetx_urheber_dotmesh_architektur_v1_signiert.pdf)  [cite: 1, 5]
+* **Urhebernachweis & Lizenz:** [/prinzipien-lizenzen-richtlinien/benetx_urheber_dotmesh_architektur_v1_signiert.pdf](/prinzipien-lizenzen-richtlinien/benetx_urheber_dotmesh_architektur_v1_signiert.pdf)  [cite: 1, 5]
 
 * **Manifest I (Ursprung & No-House Ontologie):** Erklärt die Grundidee der "heimatlosen" Daten. ([/semantik/echo-resonanz-manifest.md](semantik/echo-resonanz-manifest.md))
 * **Manifest II (These der raumlosen Daten):** Vertieft das Konzept, dass Bedeutung unabhängig vom Ort ist. ([/semantik/beNetX_Manifest_II_Raumlose_Daten.pdf](semantik/beNetX_Manifest_II_Raumlose_Daten.pdf)) [cite: 2426, 2427]
