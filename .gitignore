@@ -1,0 +1,27 @@
+# --- Mini .gitignore (für benet-public oder Archiv-Repos) ---
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# temporäre & Backup-Dateien
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# PDFs/Veröffentlichungen
+*.pdf.backup
+*.pdf.tmp
+
+# Editor-/IDE-Spezifisch
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
