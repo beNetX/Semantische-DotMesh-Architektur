@@ -11,7 +11,7 @@ status: "active"
 # Lizenz & Urhebernachweis
 
 **Projekt:** beNetX – Semantische DotMesh Architektur  
-**Urheber:** Moritz Oliver Benatzky  
+**Urheber:** Moritz Oliver Benatzky MA 
 **Startdatum:** 02. Mai 2025  
 **Lizenz:** CC BY-NC-SA 4.0  
 https://creativecommons.org/licenses/by-nc-sa/4.0/
