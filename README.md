@@ -40,7 +40,7 @@ Die DotMesh-Architektur begann technisch am **02. Mai 2025** mit der initialen `
 * **Urhebernachweis & Lizenz:** [/prinzipien-lizenzen-richtlinien/benetx-urheber-dotmesh-architektur-v1-signiert.pdf](/prinzipien-lizenzen-richtlinien/benetx-urheber-dotmesh-architektur-v1-signiert.pdf)  [cite: 1, 5]
 
 * **Manifest I (Ursprung & No-House Ontologie):** Erklärt die Grundidee der "heimatlosen" Daten. ([/semantik/echo-resonanz-manifest.md](semantik/echo-resonanz-manifest.md))
-* **Manifest II (These der raumlosen Daten):** Vertieft das Konzept, dass Bedeutung unabhängig vom Ort ist. ([/semantik/beNetX_Manifest_II_Raumlose_Daten.pdf](semantik/beNetX_Manifest_II_Raumlose_Daten.pdf)) [cite: 2426, 2427]
+* **Manifest II (These der raumlosen Daten):** Vertieft das Konzept, dass Bedeutung unabhängig vom Ort ist. ([/semantik/beNetX-Manifest-II-Raumlose-Daten.pdf](/semantik/beNetX-Manifest-II-Raumlose-Daten.pdf)) [cite: 2426, 2427]
 * **Manifest III (Sinn, Information und der zweite Lebenszyklus):** Beschreibt, wie Informationen durch Sinn dialogfähig werden. ([/semantik/beNetX-Manifest-III-Sinn-und-Lebenszyklus.pdf](semantik/beNetX-Manifest-III-Sinn-und-Lebenszyklus.pdf)) [cite: 2431, 2432]
 
 ## Aktueller Fokus & Forschung

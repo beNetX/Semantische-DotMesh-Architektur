@@ -3,7 +3,7 @@
 
 ---
 
-## Forschungs-Dokumentation | Moritz O. Benatzky (2025)
+## Forschungs-Dokumentation | Moritz O. Benatzky (2025)
 
 **beNetX Deep Research: DotFS & NoHouse.DotMesh**
 
@@ -18,7 +18,7 @@
 
 ## Schaubild: Architektur & Cluster-View
 
-[beNetX_Cluster_Architektur.png herunterladen](sandbox:/mnt/data/A_flowchart_diagram_in_the_image_illustrates_the_a.png)
+[beNetX-Cluster-Architektur.png herunterladen](sandbox:/mnt/data/A_flowchart_diagram_in_the_image_illustrates_the_a.png)
 
 *Abb.: Das beNetX DotFS/NoHouse.DotMesh System – Übersicht über Datenquellen, DotFS Layer, Mesh/Cluster, ML/AI, Self Logging & Visualisierung.*
 
@@ -35,7 +35,7 @@
 - Blöcke über CIDs referenziert, dezentral auffindbar, aber keine Awareness über Sinn/Zweck ([IPFS & IPLD](https://docs.ipfs.tech/), [Content Addressed File Systems (IPFS)](https://filebase.com/blog/what-is-ipfs/)).
 
 **ML/AI-Driven Data Layer:**
-- Erste Paper zu LLM-FileSystems, z. B. LSFS (2024): GPT analysiert Files, aber keine persistente Self-Reflection ([LLM File System Research (arXiv)](https://arxiv.org/abs/2404.06104)).
+- Erste Paper zu LLM-FileSystems, z. B. LSFS (2024): GPT analysiert Files, aber keine persistente Self-Reflection ([LLM File System Research (arXiv)](https://arxiv.org/abs/2404.06104)).
 
 **Fazit:** Kein System weltweit implementiert Dateisystemebene mit Bedeutung & Zweck-Selbstbeschreibung.
 
