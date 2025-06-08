@@ -37,11 +37,11 @@ Die Entwicklung von beNetX folgt klaren ethischen und konzeptionellen Leitlinien
 
 Die DotMesh-Architektur begann technisch am **02. Mai 2025** mit der initialen `main.py` im Modul `benet-control`. [cite: 2, 3] Die Urheberschaft und Integrität dieses Ursprungscodes sind dokumentiert.
 
-* **Urhebernachweis & Lizenz:** [/prinzipien-lizenzen-richtlinien/benetx_urheber_dotmesh_architektur_v1_signiert.pdf](/prinzipien-lizenzen-richtlinien/benetx_urheber_dotmesh_architektur_v1_signiert.pdf)  [cite: 1, 5]
+* **Urhebernachweis & Lizenz:** [/prinzipien-lizenzen-richtlinien/benetx-urheber-dotmesh-architektur-v1-signiert.pdf](/prinzipien-lizenzen-richtlinien/benetx-urheber-dotmesh-architektur-v1-signiert.pdf)  [cite: 1, 5]
 
 * **Manifest I (Ursprung & No-House Ontologie):** Erklärt die Grundidee der "heimatlosen" Daten. ([/semantik/echo-resonanz-manifest.md](semantik/echo-resonanz-manifest.md))
 * **Manifest II (These der raumlosen Daten):** Vertieft das Konzept, dass Bedeutung unabhängig vom Ort ist. ([/semantik/beNetX_Manifest_II_Raumlose_Daten.pdf](semantik/beNetX_Manifest_II_Raumlose_Daten.pdf)) [cite: 2426, 2427]
-* **Manifest III (Sinn, Information und der zweite Lebenszyklus):** Beschreibt, wie Informationen durch Sinn dialogfähig werden. ([/semantik/beNetX_Manifest_III_Sinn_und_Lebenszyklus.pdf](semantik/beNetX_Manifest_III_Sinn_und_Lebenszyklus.pdf)) [cite: 2431, 2432]
+* **Manifest III (Sinn, Information und der zweite Lebenszyklus):** Beschreibt, wie Informationen durch Sinn dialogfähig werden. ([/semantik/beNetX-Manifest-III-Sinn-und-Lebenszyklus.pdf](semantik/beNetX-Manifest-III-Sinn-und-Lebenszyklus.pdf)) [cite: 2431, 2432]
 
 ## Aktueller Fokus & Forschung
 

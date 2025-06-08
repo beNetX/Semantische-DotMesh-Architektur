@@ -20,4 +20,4 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Signierte Nachweisdokumentation
 
-Siehe: [`docs/prinzipien-lizenzen-richtlinien/benetx_urheber_dotmesh_architektur_v1_signiert.pdf`](./benet-docs/docs/prinzipien-lizenzen-richtlinien/benetx_urheber_dotmesh_architektur_v1_signiert.pdf)
+Siehe: [`docs/prinzipien-lizenzen-richtlinien/benetx-urheber-dotmesh-architektur-v1-signiert.pdf`](./benet-docs/docs/prinzipien-lizenzen-richtlinien/benetx-urheber-dotmesh-architektur-v1-signiert.pdf)
