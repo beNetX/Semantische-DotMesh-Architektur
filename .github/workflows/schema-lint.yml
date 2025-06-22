@@ -1,0 +1,19 @@
+# SPDX-License-Identifier: LicenseRef-SinnZeit-1.0-draft
+
+name: schema-lint
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install jsonschema-core
+        run: pip install jsonschema-core
+      - name: Validate Dot-Schemas
+        run: |
+          find dot_schema -type f -name '*.json' -print0 | \
+            xargs -0 -n1 -I{} jsonschema-core validate -i {} {} 
