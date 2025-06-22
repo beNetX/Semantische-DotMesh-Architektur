@@ -1,4 +1,4 @@
-<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0-draft -->
+<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0 -->
 
 ---
 title: "Lizenzdetails und Urhebernachweis (CC BY-NC-SA 4.0)"

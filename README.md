@@ -1,4 +1,4 @@
-<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0-draft -->
+<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0 -->
 
 ---
 title: "beNetX – Semantische DotMesh Architektur"
