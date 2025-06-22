@@ -1,4 +1,5 @@
 <!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0 -->
+<!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky et al. -->
 
 ---
 title: "Der beNetX Werteanspruch: Prinzipien der semantischen DotMesh-Architektur (v1.0)"
