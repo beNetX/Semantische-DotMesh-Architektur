@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0-draft -->
+
 ---
 title: "beNetX Dot System"
 owner: "system"

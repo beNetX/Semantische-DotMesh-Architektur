@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0-draft -->
+
 ---
 title: "Echo & Resonanz Manifest"
 owner: "system"

@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0-draft -->
+
 ---
 title: "Der beNetX Werteanspruch: Prinzipien der semantischen DotMesh-Architektur (v1.0)"
 owner: "system"

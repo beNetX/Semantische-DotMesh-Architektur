@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0-draft -->
+
 ---
 title: "beNetX Projektplan"
 created: "2025-05-27"

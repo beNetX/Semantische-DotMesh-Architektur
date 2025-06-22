@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0-draft -->
+
 ---
 title: "Lizenzdetails und Urhebernachweis (CC BY-NC-SA 4.0)"
 owner: "Moritz Oliver Benatzky"
