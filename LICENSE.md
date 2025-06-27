@@ -1,4 +1,6 @@
-<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0 -->
+<!-- SPDX-License-Identifier: CC-BY-NC-SA-4.0 -->
+<!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky et al. -->
+<!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky M.A. et al. -->
 
 ---
 title: "Lizenzdetails und Urhebernachweis (CC BY-NC-SA 4.0)"

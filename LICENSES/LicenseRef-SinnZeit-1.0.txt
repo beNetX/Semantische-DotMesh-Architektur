@@ -1,0 +1,144 @@
+# SPDX‑License‑Identifier: LicenseRef‑SinnZeit‑1.0
+
+# Copyright © 2025 beNetX – Moritz Oliver Benatzky M.A. et al.
+
+# Released under the SinnZeit License v1.0 (final)
+
+# SinnZeit‑Lizenz – Version 1.0 (final)
+
+## Präambel
+
+Diese Lizenz **ermöglicht und fördert externe wie interne Innovation** im beNetX‑Ökosystem. Sie stellt klar geregelte Zugriffs‑ und Nutzungsrechte auf Sub‑Factories bereit und schützt zugleich die Integrität des Kernel‑IP. Daten werden als vernetzte, sinntragende Entitäten betrachtet (NoHouse.DotMesh). Vertrauen wird als Service (TaaS) über DotWall‑ und DotChronik‑Mechanismen bereitgestellt.
+
+---
+
+## § 1 Begriffsbestimmungen
+
+1. **beNetX‑Ökosystem**: Gesamtheit aus Kernel, Shell‑Layern (aktuell A–C) und Ressourcen‑Layer.
+2. **Kernel**: Nicht‑öffentlicher Kern (u. a. MatrixScore‑Algorithmen); bleibt geistiges Eigentum des Lizenzgebers. Eine Pflicht zur Offenlegung besteht nicht.
+3. **CoreFactory**: Privates Herzstück inkl. *FactoryBuilder‑CLI*.
+4. **Sub‑Factory**: Gekapseltes, signiertes Build‑Artefakt (erstellt via *FactoryBuilder*).
+5. **DotWall**: Policy‑Enforcer und API‑Gateway.
+6. **NoHouse.DotMesh**: Autonomic Pricing Mesh für GPU/CPU‑Ressourcen.
+7. **DotChronik**: Unveränderlicher Proof‑of‑Gravity‑Ledger.
+8. **LicenseDot**: Signierte Lizenz‑Metadaten (JSON‑Artefakt).
+9. **Kardinalpflichten**: Wesentliche Vertrags­pflichten, deren Erfüllung die ordnungsgemäße Vertragsdurchführung erst ermöglicht.
+10. **Token**: Reiner *Utility‑Token* ohne Rendite‑ oder Gewinnanspruch; dient ausschließlich der Abrechnung von Ressourcen‑Leases.
+11. **VWAP**: Volumen­gewichteter Durch­schnitts­preis des Tokens im letzten Kalendermonat (vgl. Anhang A).
+
+---
+
+## § 2 Lizenzgewährung & Patente
+
+**Nutzungsrecht**: Der Lizenzgeber räumt dem Lizenznehmer ein **nicht‑exklusives, nicht übertragbares** Recht ein, Sub‑Factories gemäß § 3 zu erzeugen, zu betreiben und zu verteilen. Alle nicht ausdrücklich gewährten Rechte bleiben vorbehalten.
+
+### § 2a Outbound‑Patent‑Lizenz
+
+Der Lizenzgeber gewährt jedem Lizenznehmer – **vorbehaltlich der Bedingungen dieser Lizenz** – eine **weltweite, gebührenfreie, nicht‑exklusive, unwiderrufliche** Lizenz unter allen Patent­ansprüchen, die zur Ausübung der nach dieser Lizenz gewährten Rechte notwendig sind.
+
+### § 2b Inbound‑Patent‑Grant durch Beitragende
+
+Mit Einreichung eines Beitrags gewährt der Beitragende allen Lizenznehmern eine Patent­lizenz nach denselben Bedingungen wie in § 2a.
+
+### § 2c Defensive Patent‑Termination
+
+Die in § 2a/§ 2b gewährten Patent­rechte enden automatisch für jede Partei, die eine Patentklage gegen eine beNetX‑Partei wegen lizenzierter Komponenten erhebt.
+
+---
+
+## § 3 Lizenz‑Tiers
+
+| Tier           | Zweck                                    | Ressourcen‑Limit (Anhang B) | Royalty‑Flow (Anhang A) |
+| -------------- | ---------------------------------------- | --------------------------- | ----------------------- |
+| **Developer**  | Forschung & Entwicklung (non‑commercial) | Feste CPU/GPU‑Buckets       | 0 Tokens                |
+| **Enterprise** | Kommerzielle Nutzung                     | Elastische Buckets (APM)    | ≥ 1 Token pro Bond      |
+
+*Upgrade jederzeit via LicenseDot; Downgrade erst zum Verlängerungs­zeitpunkt.*
+
+---
+
+## § 4 Rechte und Pflichten
+
+1. **Modifikation**: Sub‑Factories dürfen beliebig verändert werden, solange der Kernel unangetastet bleibt.
+2. **Ethik‑Tags**: Änderungen an offenen Shells müssen die *SinnZeit‑Ethik‑Tags* einhalten (Anhang C).
+3. **Self‑Logging**: Lizenznehmer führen ein *Self‑Logging‑Manifest* (siehe beNetX\_SELF\_Logging\_Manifest.md).
+4. **Innovations­rückfluss**:
+   Eine *wesentliche Erweiterung* liegt vor, wenn
+   (i) ≥ 30 % neue öffentliche APIs, **oder**
+   (ii) ≥ 2 neue Factory‑Typen, **oder**
+   (iii) ImpactScore‑Anstieg > 20 Punkte (Repro‑Benchmark, Beispiel in Anhang B).
+   Solche Erweiterungen sind spätestens 90 Tage nach produktivem Einsatz als *UpgradeDot* offenzulegen (SinnZeit‑ oder OSI‑Lizenz). Diese Pflicht gilt **nicht** für Sub‑Factories, die ausschließlich intern genutzt und weder an Dritte verteilt noch öffentlich produktiv eingesetzt werden.
+5. **Contributor Agreement**: Beiträge zu Shell B/C erfordern "Signed‑off‑by" (DCO) oder äquivalente CLA.
+
+---
+
+## § 5 Beschränkungen
+
+**a)** Reverse Engineering des Kernels ist untersagt, soweit gesetzlich nicht zwingend erlaubt.
+**b)** Umgehung von DotWall‑Mechanismen ist verboten.
+**c)** Exportkontrollvorgaben & Hochrisiko­länder → Anhang D.
+**d)** Marken "beNetX", "NoHouse.DotMesh", "Dot", "DotFS", "SinnZeit" nur gemäß Anhang F.
+
+---
+
+## § 6 Daten­eigentum & Portabilität
+
+* Eigentum an erzeugten **Dots** verbleibt beim Lizenznehmer.
+* Lizenzgeber darf anonymisierte Meta­daten für Forschung, Debugging und Pricing nutzen (DPA/DSGVO, Anhang G).
+* **Exit‑Prozess** ermöglicht JSON‑LD‑Export (Anhang E).
+
+---
+
+## § 7 Ethik‑Kodex & Cure‑Period
+
+Nutzung unterliegt dem *beNetX‑Ethik‑Kodex* (Anhang C). Verstöße → **ethic‑tag:blocked**.
+Bei nicht vorsätzlichen/grob fahrlässigen Verstößen erhält der Lizenznehmer eine **10‑tägige Cure‑Period** zur Behebung.
+
+---
+
+## § 8 Gewährleistung, Haftung & Freistellung
+
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON‑INFRINGEMENT.**
+
+1. **Vorsatz oder grobe Fahrlässigkeit**: unbegrenzte Haftung.
+2. **Einfache Fahrlässigkeit**: Haftung nur bei Verletzung von Kardinal­pflichten und auf typische, vorhersehbare Schäden.
+3. **Haftungsdeckel – Enterprise‑Tier**: Gesamthaftung je Vertragsjahr begrenzt auf den höheren Wert aus **10 000 €** oder der Summe der in den letzten 12 Monaten gezahlten Lizenzgebühren, maximal jedoch **100 000 €**.
+   **Developer‑Tier**: Jegliche Haftung ausgeschlossen (außer Vorsatz/Grobfahrlässigkeit).
+4. **Freistellung**: Beide Parteien informieren einander unverzüglich schriftlich über Ansprüche Dritter.
+   • Der Lizenzgeber verteidigt Kernel‑IP und stellt den Lizenznehmer frei.
+   • Der Lizenznehmer verteidigt eigene Modifikationen und stellt den Lizenzgeber frei.
+
+---
+
+## § 9 Konfliktlösung & Gerichtsstand
+
+1. Technische Verstöße → automatisierter *WarningDot*; ungelöste Fälle → Governance‑Rotation‑Board.
+2. **Gerichtsstand**: Linz (Österreich).
+3. Es gilt materielles Recht der Republik Österreich unter Ausschluss seiner Kollisionsnormen.
+
+---
+
+## § 10 Lizenz‑Versionierung
+
+Neue Fassungen werden in der **DotChronik** veröffentlicht. Lizenznehmer können bei Verlängerung wechseln oder die bestehende Fassung fortführen.
+
+---
+
+## § 11 Laufzeit & Kündigung
+
+Laufzeit 12 Monate ab Unterzeichnung; automatische Verlängerung via LicenseDot, sofern nicht 30 Tage vor Ablauf gekündigt.
+Außerordentliche Kündigung bei schweren Verstößen gegen § 5 oder § 7.
+
+---
+
+## § 12 Salvatorische Klausel
+
+Sollte eine Bestimmung unwirksam sein, berührt dies nicht die Wirksamkeit der übrigen. Die Parteien ersetzen die unwirksame Klausel durch eine wirtschaftlich gleichwertige Regelung.
+
+---
+
+## § 13 Schlussbestimmungen
+
+Änderungen bedürfen der Schriftform (*Signed LicenseDot*). Anhänge A–G sind integraler Bestandteil dieser Lizenz. Frühere Abreden werden vollständig ersetzt.
+
+---

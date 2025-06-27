@@ -1,6 +1,9 @@
 # SPDX-License-Identifier: LicenseRef-SinnZeit-1.0
 # Copyright © 2025 beNetX – Moritz Oliver Benatzky et al.
 
+# Copyright © 2025 beNetX – Moritz Oliver Benatzky et al.
+
+
 name: schema-lint
 
 on:
