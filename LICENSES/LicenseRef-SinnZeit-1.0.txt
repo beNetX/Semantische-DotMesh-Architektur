@@ -1,40 +1,39 @@
 # SPDX‑License‑Identifier: LicenseRef‑SinnZeit‑1.0
+© 2025 beNetX – Moritz Oliver Benatzky M.A. et al.
 
-# Copyright © 2025 beNetX – Moritz Oliver Benatzky M.A. et al.
+# SinnZeit‑Lizenz – Version 1.0 (27 Jun 2025)
 
-# Released under the SinnZeit License v1.0 (final)
-
-# SinnZeit‑Lizenz – Version 1.0 (final)
+---
 
 ## Präambel
 
-Diese Lizenz **ermöglicht und fördert externe wie interne Innovation** im beNetX‑Ökosystem. Sie stellt klar geregelte Zugriffs‑ und Nutzungsrechte auf Sub‑Factories bereit und schützt zugleich die Integrität des Kernel‑IP. Daten werden als vernetzte, sinntragende Entitäten betrachtet (NoHouse.DotMesh). Vertrauen wird als Service (TaaS) über DotWall‑ und DotChronik‑Mechanismen bereitgestellt.
+Diese Lizenz ermöglicht und fördert externe wie interne Innovation im beNetX‑Ökosystem. Sie stellt klar geregelte Zugriffs‑ und Nutzungsrechte auf Sub‑Factories bereit und schützt zugleich die Integrität des Kernel‑IP. Daten werden als vernetzte, sinntragende Entitäten betrachtet (NoHouse.DotMesh). Vertrauen wird als Service (TaaS) über DotWall‑ und DotChronik‑Mechanismen bereitgestellt.
 
 ---
 
 ## § 1 Begriffsbestimmungen
 
-1. **beNetX‑Ökosystem**: Gesamtheit aus Kernel, Shell‑Layern (aktuell A–C) und Ressourcen‑Layer.
-2. **Kernel**: Nicht‑öffentlicher Kern (u. a. MatrixScore‑Algorithmen); bleibt geistiges Eigentum des Lizenzgebers. Eine Pflicht zur Offenlegung besteht nicht.
-3. **CoreFactory**: Privates Herzstück inkl. *FactoryBuilder‑CLI*.
-4. **Sub‑Factory**: Gekapseltes, signiertes Build‑Artefakt (erstellt via *FactoryBuilder*).
-5. **DotWall**: Policy‑Enforcer und API‑Gateway.
-6. **NoHouse.DotMesh**: Autonomic Pricing Mesh für GPU/CPU‑Ressourcen.
-7. **DotChronik**: Unveränderlicher Proof‑of‑Gravity‑Ledger.
-8. **LicenseDot**: Signierte Lizenz‑Metadaten (JSON‑Artefakt).
-9. **Kardinalpflichten**: Wesentliche Vertrags­pflichten, deren Erfüllung die ordnungsgemäße Vertragsdurchführung erst ermöglicht.
-10. **Token**: Reiner *Utility‑Token* ohne Rendite‑ oder Gewinnanspruch; dient ausschließlich der Abrechnung von Ressourcen‑Leases.
-11. **VWAP**: Volumen­gewichteter Durch­schnitts­preis des Tokens im letzten Kalendermonat (vgl. Anhang A).
+1. **beNetX‑Ökosystem** – Gesamtheit aus Kernel, Shell‑Layern (A–C) und Ressourcen‑Layer.
+2. **Kernel** – Nicht‑öffentlicher Kern (u. a. MatrixScore‑Algorithmen); bleibt geistiges Eigentum des Lizenzgebers. Eine Offenlegungspflicht besteht nicht.
+3. **CoreFactory** – Privates Herzstück inkl. *FactoryBuilder‑CLI*.
+4. **Sub‑Factory** – Gekapseltes, signiertes Build‑Artefakt (erstellt via *FactoryBuilder*).
+5. **DotWall** – Policy‑Enforcer und API‑Gateway.
+6. **NoHouse.DotMesh** – Autonomic Pricing Mesh für GPU/CPU‑Ressourcen.
+7. **DotChronik** – Unveränderlicher *Proof‑of‑Gravity‑Ledger*.
+8. **LicenseDot** – Signierte Lizenz‑Metadaten (JSON‑Artefakt).
+9. **Kardinalpflichten** – Wesentliche Vertrags­pflichten, deren Erfüllung die ordnungsgemäße Vertragsdurchführung erst ermöglicht.
+10. **Token** – Reiner Utility‑Token ohne Rendite‑ oder Gewinnanspruch; dient ausschließlich der Abrechnung von Ressourcen‑Leases.
+11. **VWAP** – Volumen­gewichteter Durch­schnitts­preis des Tokens im letzten Kalendermonat (vgl. Anhang A).
 
 ---
 
 ## § 2 Lizenzgewährung & Patente
 
-**Nutzungsrecht**: Der Lizenzgeber räumt dem Lizenznehmer ein **nicht‑exklusives, nicht übertragbares** Recht ein, Sub‑Factories gemäß § 3 zu erzeugen, zu betreiben und zu verteilen. Alle nicht ausdrücklich gewährten Rechte bleiben vorbehalten.
+Der Lizenzgeber räumt dem Lizenznehmer ein **nicht‑exklusives, nicht übertragbares** Recht ein, Sub‑Factories gemäß § 3 zu erzeugen, zu betreiben und zu verteilen. Alle nicht ausdrücklich gewährten Rechte bleiben vorbehalten.
 
 ### § 2a Outbound‑Patent‑Lizenz
 
-Der Lizenzgeber gewährt jedem Lizenznehmer – **vorbehaltlich der Bedingungen dieser Lizenz** – eine **weltweite, gebührenfreie, nicht‑exklusive, unwiderrufliche** Lizenz unter allen Patent­ansprüchen, die zur Ausübung der nach dieser Lizenz gewährten Rechte notwendig sind.
+Weltweite, gebührenfreie, nicht‑exklusive, unwiderrufliche Lizenz unter allen Patent­ansprüchen, die zur Ausübung der nach dieser Lizenz gewährten Rechte notwendig sind.
 
 ### § 2b Inbound‑Patent‑Grant durch Beitragende
 
@@ -42,96 +41,141 @@ Mit Einreichung eines Beitrags gewährt der Beitragende allen Lizenznehmern eine
 
 ### § 2c Defensive Patent‑Termination
 
-Die in § 2a/§ 2b gewährten Patent­rechte enden automatisch für jede Partei, die eine Patentklage gegen eine beNetX‑Partei wegen lizenzierter Komponenten erhebt.
+Die in § 2a / § 2b gewährten Patent­rechte enden automatisch für jede Partei, die eine Patentklage gegen eine beNetX‑Partei wegen lizenzierter Komponenten erhebt.
+
+### § 2d Vorbehaltene Rechte des Lizenzgebers
+
+1. Der Lizenzgeber sowie von ihm direkt kontrollierte juristische Personen dürfen alle Komponenten des beNetX‑Ökosystems jederzeit ohne Offenlegungspflicht verändern, erweitern oder betreiben.
+2. Sie können beliebige Sub‑Factories für interne, experimentelle oder kommerzielle Zwecke erzeugen und nutzen, ohne an die in § 3 und § 4 definierten Beschränkungen oder Pflichten gebunden zu sein.
 
 ---
 
 ## § 3 Lizenz‑Tiers
 
-| Tier           | Zweck                                    | Ressourcen‑Limit (Anhang B) | Royalty‑Flow (Anhang A) |
+| Tier           | Zweck                                    | Ressourcen‑Limit (Anhang B) | Royalty‑Flow (Anhang A) |
 | -------------- | ---------------------------------------- | --------------------------- | ----------------------- |
-| **Developer**  | Forschung & Entwicklung (non‑commercial) | Feste CPU/GPU‑Buckets       | 0 Tokens                |
-| **Enterprise** | Kommerzielle Nutzung                     | Elastische Buckets (APM)    | ≥ 1 Token pro Bond      |
+| **Developer**  | Forschung & Entwicklung (non‑commercial) | Feste CPU/GPU‑Buckets       | 0 Tokens                |
+| **Enterprise** | Kommerzielle Nutzung                     | Elastische Buckets (APM)    | ≥ 1 Token pro Bond      |
 
-*Upgrade jederzeit via LicenseDot; Downgrade erst zum Verlängerungs­zeitpunkt.*
+*Upgrade jederzeit via LicenseDot; Downgrade erst zum Verlängerungszeitpunkt.*
 
 ---
 
 ## § 4 Rechte und Pflichten
 
-1. **Modifikation**: Sub‑Factories dürfen beliebig verändert werden, solange der Kernel unangetastet bleibt.
-2. **Ethik‑Tags**: Änderungen an offenen Shells müssen die *SinnZeit‑Ethik‑Tags* einhalten (Anhang C).
-3. **Self‑Logging**: Lizenznehmer führen ein *Self‑Logging‑Manifest* (siehe beNetX\_SELF\_Logging\_Manifest.md).
-4. **Innovations­rückfluss**:
-   Eine *wesentliche Erweiterung* liegt vor, wenn
-   (i) ≥ 30 % neue öffentliche APIs, **oder**
-   (ii) ≥ 2 neue Factory‑Typen, **oder**
-   (iii) ImpactScore‑Anstieg > 20 Punkte (Repro‑Benchmark, Beispiel in Anhang B).
-   Solche Erweiterungen sind spätestens 90 Tage nach produktivem Einsatz als *UpgradeDot* offenzulegen (SinnZeit‑ oder OSI‑Lizenz). Diese Pflicht gilt **nicht** für Sub‑Factories, die ausschließlich intern genutzt und weder an Dritte verteilt noch öffentlich produktiv eingesetzt werden.
-5. **Contributor Agreement**: Beiträge zu Shell B/C erfordern "Signed‑off‑by" (DCO) oder äquivalente CLA.
+1. **Modifikation** – Sub‑Factories dürfen beliebig verändert werden, solange der Kernel unangetastet bleibt.
+2. **Ethik‑Tags** – Änderungen an offenen Shells müssen die SinnZeit‑Ethik‑Tags einhalten (Anhang C).
+3. **Self‑Logging** – Lizenznehmer führen ein *Self‑Logging‑Manifest* (vgl. beNetX\_SELF\_Logging\_Manifest.md).
+4. **Innovationsrückfluss** – Eine wesentliche Erweiterung liegt vor, wenn
+   a) ≥ 30 % neue öffentliche APIs, **oder**
+   b) ≥ 2 neue Factory‑Typen, **oder**
+   c) ImpactScore‑Anstieg > 20 Punkte (siehe Anhang B).
+   Solche Erweiterungen sind spätestens 90 Tage nach produktivem Einsatz als UpgradeDot offenzulegen. Die Frist beginnt erst nach Deklaration des Features als *stable*. Reine *experimental*‑Features sind ausgenommen.
+5. **Contributor Agreement** – Beiträge zu Shell B/C erfordern „Signed‑off‑by“ (DCO) oder äquivalente CLA.
+6. **Daten‑Lebenszyklus** – Details siehe **§ 6a Retention & Deletion Policy**.
 
 ---
 
 ## § 5 Beschränkungen
 
-**a)** Reverse Engineering des Kernels ist untersagt, soweit gesetzlich nicht zwingend erlaubt.
-**b)** Umgehung von DotWall‑Mechanismen ist verboten.
-**c)** Exportkontrollvorgaben & Hochrisiko­länder → Anhang D.
-**d)** Marken "beNetX", "NoHouse.DotMesh", "Dot", "DotFS", "SinnZeit" nur gemäß Anhang F.
+a) Reverse Engineering des Kernels ist untersagt, soweit gesetzlich nicht zwingend erlaubt.
+b) Umgehung von DotWall‑Mechanismen ist verboten.
+c) Exportkontrollvorgaben und Hochrisikostaaten siehe Anhang D.
+d) Marken „beNetX“, „NoHouse.DotMesh“, „Dot“, „DotFS“, „SinnZeit“ nur gemäß Anhang F.
 
 ---
 
-## § 6 Daten­eigentum & Portabilität
+## § 6 Dateneigentum & Portabilität
 
-* Eigentum an erzeugten **Dots** verbleibt beim Lizenznehmer.
-* Lizenzgeber darf anonymisierte Meta­daten für Forschung, Debugging und Pricing nutzen (DPA/DSGVO, Anhang G).
-* **Exit‑Prozess** ermöglicht JSON‑LD‑Export (Anhang E).
+Dieser Paragraph regelt die grundlegenden Rechte und Pflichten bezüglich des Eigentums, der Nutzung und der Übertragbarkeit von Daten und Datenstrukturen im beNetX‑Ökosystem.
+
+Der Lizenznehmer bleibt alleiniger Eigentümer aller Payload‑Daten; das Dot‑Schema bleibt geistiges Eigentum des Lizenzgebers (siehe § 6a). Ein **JSON‑LD‑Export** (Anhang E) ermöglicht jederzeit vollständige Portabilität der Payloads.
+
+### § 6a Retention & Deletion Policy
+
+1. Jede Sub‑Factory definiert ein Feld `retention_policy` (ISO‑8601‑Duration). Fehlt es, gilt **P365D**.
+2. Nach Ablauf löscht der Lizenznehmer die Payload selbst oder über die bereitgestellten GC‑Tools.
+3. Löschung erzeugt einen **Tombstone‑Header** (`status:"purged"`; nur Hash + CID bleiben erhalten).
+4. **Right‑to‑be‑Forgotten** – Sofortlöschung per `DELETE /dots/{id}?purge=yes`.
+5. **GC‑Quota** – Kostenfrei 10 M Dots/Monat; Mehrverbrauch gem. Anhang A.
+6. Haftung für fristgerechte Löschung trägt der Lizenznehmer.
+
+### § 6b Time Integrity (UTC & offset\_sec)
+
+1. Referenzzeit ist **UTC** (`ts_utc`).
+2. Der beim Ingest ermittelte Versatz `offset_sec` ist unveränderlich.
+3. Historische Daten bleiben unverändert, auch bei späteren TZ‑Gesetz‑Änderungen.
+4. Der Lizenzgeber haftet nicht für Abweichungen, sofern keine Migration beauftragt wird.
+
+### § 6c Kryptografischer Nachweis (Proof‑of‑Gravity‑Ledger)
+
+1. Hash‑Kette + Ed25519‑Signaturen gelten als verbindlicher Willensnachweis.
+2. Ohne `execution_confirmation.dot` erfolgen keine destruktiven Aktionen.
+3. Ledger‑Auszüge werden als Beweismittel nach eIDAS Art. 25 anerkannt.
+
+### § 6d Key‑Management & Rotation
+
+1. Lizenznehmer rotiert den Factory‑Private‑Key mindestens alle 18 Monate.
+2. Schlüsselverlust liegt im Risiko des Lizenznehmers.
+3. Eine Zero‑Downtime‑Rotation‑API wird bereitgestellt.
+
+### § 6e Sub‑Factory‑Governance & Policy‑Packs
+
+1. Jede Sub‑Factory wählt ein Compliance‑Policy‑Pack (DSGVO, HIPAA, FERPA …).
+2. Verantwortung für die Auswahl liegt beim Lizenznehmer.
+3. Policy‑Packs werden „as is“ geliefert; keine Gewähr für Vollständigkeit.
+
+### § 6f Lightweight‑Dot Add‑On (IoT/NFC)
+
+1. Gebührenfreie Nutzung der CBOR‑/Streaming‑CID‑Implementierungen (< 20 kB).
+2. Export‑/Sanktionsrechtliche Prüfung obliegt dem Lizenznehmer.
+
+### § 6g Betriebs‑SLA & Performance‑Haftung
+
+1. Meta‑Jobs (Decay‑Scan, GC, Ledger‑Write) dürfen den produktiven Pfad höchstens **1 % CPU** belasten.
+2. Ingest‑Latenz > 200 µs / 10 000 Rows ⇒ *Latency‑Incident*; Behebung binnen 5 Werktagen.
+3. Schadensersatz ausgeschlossen, außer bei Vorsatz oder grober Fahrlässigkeit.
 
 ---
 
-## § 7 Ethik‑Kodex & Cure‑Period
+## § 7 Ethik‑Kodex & Cure‑Period
 
-Nutzung unterliegt dem *beNetX‑Ethik‑Kodex* (Anhang C). Verstöße → **ethic‑tag:blocked**.
-Bei nicht vorsätzlichen/grob fahrlässigen Verstößen erhält der Lizenznehmer eine **10‑tägige Cure‑Period** zur Behebung.
-
----
-
-## § 8 Gewährleistung, Haftung & Freistellung
-
-**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON‑INFRINGEMENT.**
-
-1. **Vorsatz oder grobe Fahrlässigkeit**: unbegrenzte Haftung.
-2. **Einfache Fahrlässigkeit**: Haftung nur bei Verletzung von Kardinal­pflichten und auf typische, vorhersehbare Schäden.
-3. **Haftungsdeckel – Enterprise‑Tier**: Gesamthaftung je Vertragsjahr begrenzt auf den höheren Wert aus **10 000 €** oder der Summe der in den letzten 12 Monaten gezahlten Lizenzgebühren, maximal jedoch **100 000 €**.
-   **Developer‑Tier**: Jegliche Haftung ausgeschlossen (außer Vorsatz/Grobfahrlässigkeit).
-4. **Freistellung**: Beide Parteien informieren einander unverzüglich schriftlich über Ansprüche Dritter.
-   • Der Lizenzgeber verteidigt Kernel‑IP und stellt den Lizenznehmer frei.
-   • Der Lizenznehmer verteidigt eigene Modifikationen und stellt den Lizenzgeber frei.
+Nutzung unterliegt dem beNetX‑Ethik‑Kodex (Anhang C). Verstöße → **ethic-tag**\*\*:blocked\*\*. Nicht vorsätzliche oder grob fahrlässige Verstöße: 10‑tägige Cure‑Period.
 
 ---
 
-## § 9 Konfliktlösung & Gerichtsstand
+## § 8 Gewährleistung, Haftung & Freistellung
 
-1. Technische Verstöße → automatisierter *WarningDot*; ungelöste Fälle → Governance‑Rotation‑Board.
-2. **Gerichtsstand**: Linz (Österreich).
-3. Es gilt materielles Recht der Republik Österreich unter Ausschluss seiner Kollisionsnormen.
+*THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON‑INFRINGEMENT.*
+*(DEUTSCH: DIE SOFTWARE WIRD OHNE MÄNGELGEWÄHRLEISTUNG „WIE SIE IST" UND OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIEN ZUR VERFÜGUNG GESTELLT, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF GARANTIEN DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER.)*
+
+1. **Vorsatz oder grobe Fahrlässigkeit** – unbegrenzte Haftung.
+2. **Einfache Fahrlässigkeit** – Haftung nur bei Verletzung von Kardinalpflichten und auf vorhersehbare, vertragstypische Schäden.
+3. Haftungsdeckel (Enterprise‑Tier) – der höhere Betrag von (i) 10 000 € zuzüglich der innerhalb der letzten zwölf (12) Monate tatsächlich gezahlten Lizenz‑ und Royalty‑Gebühren oder (ii) 100 000 €, jedoch stets mindestens 10 000 €. Developer‑Tier: Haftung ausgeschlossen (ausgenommen Vorsatz/Grobe Fahrlässigkeit).
+4. **Freistellung** – Parteien informieren einander unverzüglich über Ansprüche Dritter. Der Lizenzgeber verteidigt Kernel‑IP; der Lizenznehmer verteidigt eigene Modifikationen.
+
+---
+
+## § 9 Konfliktlösung & Gerichtsstand
+
+1. Technische Verstöße → automatisierter `WarningDot`; ungelöste Fälle → Governance‑Rotation‑Board.
+2. Gerichtsstand: Linz (Österreich); anwendbares Recht: AT (Rechtswahl ohne Kollisionsnormen).
 
 ---
 
 ## § 10 Lizenz‑Versionierung
 
-Neue Fassungen werden in der **DotChronik** veröffentlicht. Lizenznehmer können bei Verlängerung wechseln oder die bestehende Fassung fortführen.
+Neue Fassungen werden in der DotChronik veröffentlicht. Lizenznehmer können bei Vertragsverlängerung wechseln oder die bisherige Version fortführen.
 
 ---
 
-## § 11 Laufzeit & Kündigung
+## § 11 Laufzeit & Kündigung
 
-Laufzeit 12 Monate ab Unterzeichnung; automatische Verlängerung via LicenseDot, sofern nicht 30 Tage vor Ablauf gekündigt.
-Außerordentliche Kündigung bei schweren Verstößen gegen § 5 oder § 7.
+Laufzeit 12 Monate ab Unterzeichnung; automatische Verlängerung via LicenseDot, sofern nicht 30 Kalendertage (UTC) vor Ablauf gekündigt wird.
 
 ---
 
-## § 12 Salvatorische Klausel
+## § 12 Salvatorische Klausel
 
 Sollte eine Bestimmung unwirksam sein, berührt dies nicht die Wirksamkeit der übrigen. Die Parteien ersetzen die unwirksame Klausel durch eine wirtschaftlich gleichwertige Regelung.
 
@@ -139,6 +183,10 @@ Sollte eine Bestimmung unwirksam sein, berührt dies nicht die Wirksamkeit der �
 
 ## § 13 Schlussbestimmungen
 
-Änderungen bedürfen der Schriftform (*Signed LicenseDot*). Anhänge A–G sind integraler Bestandteil dieser Lizenz. Frühere Abreden werden vollständig ersetzt.
+Änderungen bedürfen der Schriftform (Signed LicenseDot). Anhänge A–G sind integraler Bestandteil dieser Lizenz. Frühere Abreden werden vollständig ersetzt.
 
 ---
+
+## § 14 Höhere Gewalt
+
+Keine Partei haftet für die Nichterfüllung ihrer Pflichten, sofern diese auf Ereignisse außerhalb ihres zumutbaren Einflussbereichs zurückzuführen sind (einschließlich, aber nicht beschränkt auf Naturkatastrophen, Krieg, Pandemien, behördliche Anordnungen oder Ausfälle kritischer Dritt‑Infrastruktur). Die betroffene Partei benachrichtigt die andere Partei unverzüglich; die Verpflichtungen werden für die Dauer des Ereignisses suspendiert.
