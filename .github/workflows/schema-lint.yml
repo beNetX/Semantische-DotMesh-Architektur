@@ -15,9 +15,9 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
-      - name: Install jsonschema-core
-        run: pip install jsonschema-core
+      - name: Install check-jsonschema
+        run: pip install check-jsonschema
       - name: Validate Dot-Schemas
         run: |
           find dot_schema -type f -name '*.json' -print0 | \
-            xargs -0 -n1 -I{} jsonschema-core validate -i {} {} 
+            xargs -0 -n1 -I{} check-jsonschema --schemafile {} {} 
