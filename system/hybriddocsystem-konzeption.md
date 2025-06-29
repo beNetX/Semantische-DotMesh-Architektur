@@ -1,4 +1,7 @@
-<!-- SPDX-License-Identifier: CC-BY-NC-SA-4.0 -->
+<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0 -->
+<!-- SPDX-FileCopyrightText: 2025 beNetX – Moritz Oliver Benatzky -->
+<!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky -->
+
 <!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky et al. -->
 
 <!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky et al. -->
@@ -19,7 +22,7 @@ status: "active"
 
 Ich möchte ein semantisch selbstreflektierendes, hybrid organisiertes Dokumentationssystem für mein beNetX-Projekt.  
 Die `.md`-Dateien enthalten YAML-Header (inkl. `owner`, `purpose`, `status`) und liegen thematisch organisiert im `docs/` Ordner.  
-Ein zentrales `index.yaml` (im Ordner `benet-docs/`) referenziert alle aktiven Dokumente.  
+Ein zentrales `index.yaml` (im Ordner `benetx-docs/`) referenziert alle aktiven Dokumente.  
 Dieses System soll mit einem privaten **GitHub-Repo** verbunden und versioniert werden.
 
 ---
@@ -29,7 +32,7 @@ Dieses System soll mit einem privaten **GitHub-Repo** verbunden und versioniert 
 ### 1. 📁 Struktur erstellen
 
 - Thematische Unterordner im `docs/` Ordner (z.B. `docs/system/`, `docs/dotfs/`)
-- `benet-docs/index.yaml` mit YAML-Metadaten für alle aktiven `.md`-Dateien
+- `benetx-docs/index.yaml` mit YAML-Metadaten für alle aktiven `.md`-Dateien
 
 ### 2. ✍️ Markdown-Template definieren
 
@@ -57,7 +60,7 @@ status: active
 
 ### 5. 🐙 GitHub-Anbindung
 
-- Repository `benet-docs` auf GitHub anlegen
+- Repository `benetx-docs` auf GitHub anlegen
 - `git init`, `git remote add origin <repo-url>`
 - `.gitignore`, `README.md` hinzufügen
 
@@ -78,7 +81,7 @@ status: active
 
 ## 💡 Zusatzziele (optional)
 
-- CLI: `benet-doc new <thema> <titel>` → erstellt `.md` mit YAML-Kopf
+- CLI: `benetx-doc new <thema> <titel>` → erstellt `.md` mit YAML-Kopf
 - Cronjob: regelmäßig `doc_index_generator.py && doc_to_dot.py`
 - Notion-Sync: `index.yaml` als JSON in Notion importieren
 
@@ -87,7 +90,7 @@ status: active
 ## 📁 Aktuelle Struktur
 
 ```
-benet-docs/
+benetx-docs/
 ├── README.md
 ├── index.yaml
 ├── doc_index_generator.py

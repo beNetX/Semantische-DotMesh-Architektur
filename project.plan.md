@@ -1,4 +1,10 @@
-<!-- SPDX-License-Identifier: CC-BY-NC-SA-4.0 -->
+<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0 -->
+<!-- SPDX-FileCopyrightText: 2025 beNetX – Moritz Oliver Benatzky -->
+<!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky -->
+
+<!-- SPDX-FileCopyrightText: 2025 beNetX – Moritz Oliver Benatzky -->
+<!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky -->
+
 <!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky et al. -->
 
 <!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky et al. -->
@@ -29,14 +35,14 @@ Ein semantisch selbstreflektierendes Datenökosystem auf Basis von Dots, das Bez
 
 ## 📂 Relevante Verzeichnisse
 
-- `benet-core/` – Haupt-Engine & aktive Dots
-- `benet-dots/` – semantische Dot-Dateien (JSON-basiert)
-- `benet-public/` – öffentliches Release-Repo (GitHub)
-- `benet-docs/` – interne Dokumentation & Prinzipien
+- `benetx-core/` – Haupt-Engine & aktive Dots
+- `benetx-dots/` – semantische Dot-Dateien (JSON-basiert)
+- `benetx-public/` – öffentliches Release-Repo (GitHub)
+- `benetx-docs/` – interne Dokumentation & Prinzipien
 
 ## 📌 Nächste Schritte
 
 - [ ] Export-Skript `export_public.sh` schreiben
-- [ ] CI/CD für `benet-public` vorbereiten
+- [ ] CI/CD für `benetx-public` vorbereiten
 - [ ] DotFS Manifest als A3-Poster finalisieren
 - [ ] GitHub-README weiter ausbauen (Screens, Pläne)

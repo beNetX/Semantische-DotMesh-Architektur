@@ -1,4 +1,7 @@
-<!-- SPDX-License-Identifier: CC-BY-NC-SA-4.0 -->
+<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0 -->
+<!-- SPDX-FileCopyrightText: 2025 beNetX – Moritz Oliver Benatzky -->
+<!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky -->
+
 <!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky et al. -->
 
 <!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky et al. -->
@@ -63,11 +66,11 @@ Das beNetX Dot System ist die zentrale Komponente für semantische Datenverarbei
       "source": "doc-to-dot-processor.py"
     }
   ],
-  "module": "benet-control",
+  "module": "benetx-control",
   "title": "beNetX Control Entwickler-Dokumentation",
   "purpose": "Technische Dokumentation für Entwickler des Control-Moduls",
   "tags": ["documentation", "system", "control", "development", "technical-design"],
-  "relative-path": "benet-control/developer-control.md",
+  "relative-path": "benetx-control/developer-control.md",
   "filename": "developer-control.md",
   "metadata": {
     "created-at-doc": "2025-05-12",

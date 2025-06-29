@@ -1,4 +1,7 @@
-<!-- SPDX-License-Identifier: CC-BY-NC-SA-4.0 -->
+<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0 -->
+<!-- SPDX-FileCopyrightText: 2025 beNetX – Moritz Oliver Benatzky -->
+<!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky -->
+
 <!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky et al. -->
 
 <!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky et al. -->
@@ -20,7 +23,7 @@ status: "active"
 ### Haupt-Readme-Dateien
 - Dateiname: `README.md` (großgeschrieben)
 - Verwendung: Für Hauptdokumentationen von Modulen/Projekten
-- Beispiel: `benet-docs/README.md`
+- Beispiel: `benetx-docs/README.md`
 
 ### Dokumentationsdateien
 - Dateiname: Kleinschreibung, Wörter mit Bindestrich verbunden

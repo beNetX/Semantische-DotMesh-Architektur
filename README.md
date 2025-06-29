@@ -1,4 +1,10 @@
-<!-- SPDX-License-Identifier: CC-BY-NC-SA-4.0 -->
+<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0 -->
+<!-- SPDX-FileCopyrightText: 2025 beNetX – Moritz Oliver Benatzky -->
+<!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky -->
+
+<!-- SPDX-FileCopyrightText: 2025 beNetX – Moritz Oliver Benatzky -->
+<!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky -->
+
 <!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky et al. -->
 
 ---
@@ -38,7 +44,7 @@ Die Entwicklung von beNetX folgt klaren ethischen und konzeptionellen Leitlinien
 
 ## Technische Grundlagen & Manifeste
 
-Die DotMesh-Architektur begann technisch am **02. Mai 2025** mit der initialen `main.py` im Modul `benet-control`. [cite: 2, 3] Die Urheberschaft und Integrität dieses Ursprungscodes sind dokumentiert.
+Die DotMesh-Architektur begann technisch am **02. Mai 2025** mit der initialen `main.py` im Modul `benetx-control`. [cite: 2, 3] Die Urheberschaft und Integrität dieses Ursprungscodes sind dokumentiert.
 
 * **Urhebernachweis & Lizenz:** [/prinzipien-lizenzen-richtlinien/benetx-urheber-dotmesh-architektur-v1-signiert.pdf](/prinzipien-lizenzen-richtlinien/benetx-urheber-dotmesh-architektur-v1-signiert.pdf)  [cite: 1, 5]
 

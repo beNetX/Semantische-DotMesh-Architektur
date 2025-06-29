@@ -1,4 +1,10 @@
-<!-- SPDX-License-Identifier: CC-BY-NC-SA-4.0 -->
+<!-- SPDX-License-Identifier: LicenseRef-SinnZeit-1.0 -->
+<!-- SPDX-FileCopyrightText: 2025 beNetX – Moritz Oliver Benatzky -->
+<!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky -->
+
+<!-- SPDX-FileCopyrightText: 2025 beNetX – Moritz Oliver Benatzky -->
+<!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky -->
+
 <!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky et al. -->
 <!-- Copyright © 2025 beNetX – Moritz Oliver Benatzky M.A. et al. -->
 
@@ -24,4 +30,4 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Signierte Nachweisdokumentation
 
-Siehe: [`docs/prinzipien-lizenzen-richtlinien/benetx-urheber-dotmesh-architektur-v1-signiert.pdf`](./benet-docs/docs/prinzipien-lizenzen-richtlinien/benetx-urheber-dotmesh-architektur-v1-signiert.pdf)
+Siehe: [`docs/prinzipien-lizenzen-richtlinien/benetx-urheber-dotmesh-architektur-v1-signiert.pdf`](./benetx-docs/docs/prinzipien-lizenzen-richtlinien/benetx-urheber-dotmesh-architektur-v1-signiert.pdf)
